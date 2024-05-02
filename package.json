@@ -1,0 +1,10 @@
+{
+  "name": "image-gallery",
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {},
+  "author": "Camilo Mejia",
+  "license": "ISC"
+}
